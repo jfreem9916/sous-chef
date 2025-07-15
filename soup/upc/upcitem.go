@@ -1,4 +1,4 @@
-package main
+package upc
 
 // For a given barcode, all related information
 // unique per barcode

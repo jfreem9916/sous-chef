@@ -1,7 +1,9 @@
 package main
 
+import "soup/item"
+
 type RecipeItem struct {
-	Ingredient
+	item.Ingredient
 	Weight_grams float32
 	Volume_ml    float32
 	//if volume or weight is defined, the weight / volume
