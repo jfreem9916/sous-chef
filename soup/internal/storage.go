@@ -1,6 +1,6 @@
 package main
 
-import "soup/upc"
+import "soup/internal/upc"
 
 type UPCItemDatastore interface {
 	//Returns error if something bad or item has no entry yet

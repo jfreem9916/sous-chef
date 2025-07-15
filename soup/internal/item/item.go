@@ -1,6 +1,6 @@
 package item
 
-import "soup/upc"
+import "soup/internal/upc"
 
 // These are items in your inventory
 // Not processed

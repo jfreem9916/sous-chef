@@ -1,6 +1,6 @@
 package main
 
-import "soup/item"
+import "soup/internal/item"
 
 type RecipeItem struct {
 	item.Ingredient

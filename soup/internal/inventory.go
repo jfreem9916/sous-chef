@@ -1,5 +1,5 @@
 package main
 
-import "soup/item"
+import "soup/internal/item"
 
 type Inventory = map[string]item.ScannedItem
